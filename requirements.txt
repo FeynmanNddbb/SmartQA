@@ -1,0 +1,8 @@
+# AI 问答助手 - Python 依赖文件
+# 使用方式：pip install -r requirements.txt
+
+# 核心依赖
+rapidfuzz==3.8.0          # 模糊字符串匹配引擎
+
+# 开发/编译工具（可选）
+pyinstaller==6.19.0       # Python 应用打包成 EXE
