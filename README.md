@@ -244,6 +244,7 @@ A: 支持！在 `answer` 字段中用英文分号 `;` 分隔多个答案：
 
 如需商业授权或其他合作，请联系作者：
 - GitHub: [@FeynmanNddbb](https://github.com/FeynmanNddbb)
+- 邮箱: [3553303315@qq.com](mailto:3553303315@qq.com)
 - 留言或 Issue 联系
 
 作者会根据具体情况评估并决定是否授予许可。
