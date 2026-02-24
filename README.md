@@ -28,6 +28,16 @@
 - `Shift + Enter` - 多行输入
 - `Ctrl + V` - 一键粘贴并清理文本
 
+## 📸 应用界面
+
+### 主界面
+![应用主界面](./images/interface_main.png)
+
+### 搜索结果界面
+![搜索结果](./images/interface_search.png)
+
+深色科技主题，简洁美观的界面设计，提供舒适的使用体验。
+
 ## 快速开始
 
 ### 方式一：直接运行 EXE（推荐）
